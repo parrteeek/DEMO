@@ -1,10 +1,2 @@
-// Define a class named HelloWorld
-public class HelloWorld {
-    
-    // main method - entry point of the Java application
-    public static void main(String[] args) {
-        
-        // Print "Hello, World!" to the console
-        System.out.println("Hello, World!");
-    }
-}
+asd
+qews
